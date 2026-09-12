@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+out/
+.output/
+.nuxt/
+.svelte-kit/
+.astro/
+_site/
+.DS_Store
+*.log
+.env
+.env.local
+.next/
